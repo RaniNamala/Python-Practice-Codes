@@ -1,5 +1,5 @@
-# Different wayes ofDeclaraing the strings :
-s1 = 'My Name is Rani'
+# Different wayes of Declaraing the strings :
+s1 = "I'm Rani2"
 s2 = "My Age is 22"
 s3 = """We are Learning Strings"""
 s4 = '''Python is Dynamically Typed Language'''
